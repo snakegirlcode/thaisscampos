@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="link-da-imagem" alt="Banner do perfil" />
+</p>
+
 # 👋 Olá! Eu sou a Thaís Campos
 
 Sou professora de Matemática com paixão por tecnologia e educação. Atualmente estou em transição para a área de **programação**, estudando **Python**, **automação com Excel**, **lógica de programação** e **tradução de conteúdo técnico**.
