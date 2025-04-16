@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="link-da-imagem" alt="Banner do perfil" />
+  <img src="https://github.com/snakegirlcode/thaisscampos/blob/45c2c99dd8fcb06b48aa8daa475013137e6719f2/banner-github.png" alt="Banner do perfil" />
 </p>
 
 # 👋 Olá! Eu sou a Thaís Campos
